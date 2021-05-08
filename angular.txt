@@ -12,4 +12,4 @@ Ans:scss is more expressive-scss uses less amount of lines compare to css.which 
 ->it uses karma and jeshmin to run test cases.
 angular
 --------
-Angular is a developma
+Angular is a developma platform for building

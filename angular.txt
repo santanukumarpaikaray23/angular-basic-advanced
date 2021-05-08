@@ -1,0 +1,15 @@
+->if we will go for angular project these are the two things we should 
+have.(1)Visual studio code
+     (2)Node js
+->how to install angular cli?
+ans:npm install -g @angular/cli
+->how to check angular version?
+ans:ng --version
+->How to make angular new project?
+Ans:ng new that project name
+->What is the difference between css and scss?
+Ans:scss is more expressive-scss uses less amount of lines compare to css.which makes the code loader faster.
+->it uses karma and jeshmin to run test cases.
+angular
+--------
+Angular is a developma
